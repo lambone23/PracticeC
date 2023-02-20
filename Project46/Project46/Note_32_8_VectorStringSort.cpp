@@ -1,3 +1,23 @@
+/*
+
+입력 예제
+5
+redeye
+apple
+Steve
+Berry
+eUnBo
+
+
+출력 결과
+Apple
+Berry
+EUNBO
+Redeye
+Steve
+
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -57,7 +77,7 @@ ECase FnGetCase(string Name)
 	return ReturnValue;
 }//END - ECase FnGetCase
 
-bool FnChkValid(string &Name)
+bool FnChkValid(string& Name)
 {
 	bool ReturnFlag = 0;
 
@@ -119,7 +139,7 @@ void FnPrint(vector<string>& VtStrNames)
 	}
 }
 
-void FnInput(vector<string> &VtStrNames)
+void FnInput(vector<string>& VtStrNames)
 {
 	while (true)
 	{

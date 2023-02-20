@@ -192,6 +192,9 @@
     <ClCompile Include="Note_32_7_WindCompCrops.cpp">
       <Filter>소스 파일\HW\2Hard</Filter>
     </ClCompile>
+    <ClCompile Include="Note_32_8_VectorStringSort.cpp">
+      <Filter>소스 파일\HW\2Hard</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Note_31_9_FindStartIdxAndEndIdxOFMaxSum._DynamicInput.cpp">
