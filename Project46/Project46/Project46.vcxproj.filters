@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\HW">
+      <UniqueIdentifier>{47c1b808-5cd8-42c9-892f-e6db12f3f41d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\TETRIS">
+      <UniqueIdentifier>{c4ce6ac4-1792-47f6-8a05-a101c764f19c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\HW\0Easy">
+      <UniqueIdentifier>{c811c472-77a7-48e4-826c-4880ac520069}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\HW\1Normal">
+      <UniqueIdentifier>{3153d02f-ba41-4cbe-bd9e-7271c570cc63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\HW\2Hard">
+      <UniqueIdentifier>{0b2cba52-530e-4246-bfd1-f8a718c92485}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_19_1_Direct.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_19_7_Direct.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_19_8_Direct.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_19-5_2_Direct.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_19-5_6_Direct.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_19-5_7_DirectMask.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_20-5_9_pattern.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_21-5_4_Tetris.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_21-5_7_Direct_Baduk.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_21-5_8_Direct_ModelPositionSetting.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_22_5_Recursive_DuplicateOK.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_22_7_Recursive_FindPathOrder.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_22-5_2_Recursive_DynamicArrSize.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_23_1_Recursive_DuplicateAvoid.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_23_3_Recursive_Duplicate2OK.cpp">
+      <Filter>소스 파일\HW\0Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_24_1_PointerNotion.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_24_9_Recursive_OXPrintKorean.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_25_5_LinkedList_PrintByWhile.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_25_10_SetAndChkCondition.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_25_11_RollCube_Recursive.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_25_13_FindMinMax_InputChkValid.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_26_2_Dynamic_MatchInt11ToCharA.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_26_4_Dynamic_AddNodeRepeatByFor.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_26_5_QueueByLinkedList.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_26_6_Parsing_Number.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_26_7_QueueByDynamicStrructArr.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_26_12_Queue_DispatchHero_1.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_26_13_FindMaxMIn_Arr3To1.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_27_1_QueueByLinkedList_DynamicRepeat.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_27_11_Recursive_Direct_Blossom.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_27_13_AdjacencyMatrix_FindPrintCondition.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_27_15_Tetrris_Direct_RemoveFullLine.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Tetris_21-5_4_Gravity.cpp">
+      <Filter>소스 파일\TETRIS</Filter>
+    </ClCompile>
+    <ClCompile Include="Tetris_27_15_RemoveFullLine.cpp">
+      <Filter>소스 파일\TETRIS</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_28_1_FindBoss_Dynamic2DArr.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_28_3_BinaryTree_ChkSubordination.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_28_4_DFS_Tree_Recursive_Dynamic2DArr.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_28_6_DFS_Tree_Recursive_ProcessingOrder.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_29_3_DFS_LinkedList_Class_Dynamic.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_29_5_BFS_Tree_Input2DArr.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_26_12_Queue_DispatchHero_LinkedList.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_29_6_DFS_BinaryTree_BFSInputArrTo2DArr.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_29_9_Queue_LinkedList_ReproductionOfMoles.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_29-5_8_Direct_MovingMonster.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_29-5_9_Recursive_Direct_ChkSameWordMaxLength.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_30-5_4_FindMaxBinary_3StrToInt_DoNotChgDecimal.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_30-5_7_Input5Int_CntCombination_SumFitCondition.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_30-5_8_HeroDispatch_NotQueue.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_PreAdvanced_3_CubeTurn_GetTurnCnt.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_PreAdvanced_5_FindMin3DigitNumber.cpp">
+      <Filter>소스 파일\HW\1Normal</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_32_1_InsertionSort.cpp">
+      <Filter>소스 파일\HW\2Hard</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_32_2_InsertionSort_Only4SizeArrUse.cpp">
+      <Filter>소스 파일\HW\2Hard</Filter>
+    </ClCompile>
+    <ClCompile Include="Note_32_7_WindCompCrops.cpp">
+      <Filter>소스 파일\HW\2Hard</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Note_31_9_FindStartIdxAndEndIdxOFMaxSum._DynamicInput.cpp">
+      <Filter>소스 파일\HW\2Hard</Filter>
+    </None>
+  </ItemGroup>
+</Project>
